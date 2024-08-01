@@ -45,3 +45,11 @@ aside .social-media li a {
 aside .social-media li a:hover {
   color: #89b0d9;
 }
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
